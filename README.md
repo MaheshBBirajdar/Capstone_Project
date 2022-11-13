@@ -3,6 +3,7 @@
 A website which helps job seekers and recruiters come together and hire easily built using Django Framework with social login.
 
 Features for recruiters :-
+
   1.Post job posts.
   
   2.Recieve applicantions on the job post with access to candidate's full profile and resume.
