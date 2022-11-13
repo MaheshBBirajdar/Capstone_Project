@@ -3,12 +3,12 @@
 A website which helps job seekers and recruiters come together and hire easily built using Django Framework with social login.
 
 Features for recruiters :-
-  Post job posts.
-  Recieve applicantions on the job post with access to candidate's full profile and resume.
-  Select or reject candidates. Candidates would be able to see their status.
-  Shortlist candidates for further rounds.
-  Search for relevant candidates for a job post by our intelligent requirement matching technique.
-  Search through entire resume database and have access to all resumes.
+  1.Post job posts.
+  2.Recieve applicantions on the job post with access to candidate's full profile and resume.
+  3.Select or reject candidates. Candidates would be able to see their status.
+  4.Shortlist candidates for further rounds.
+  5.Search for relevant candidates for a job post by our intelligent requirement matching technique.
+  6.Search through entire resume database and have access to all resumes.
   
 Features for job seekers:-
   Build your profile and add your resume.
