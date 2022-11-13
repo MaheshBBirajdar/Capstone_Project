@@ -2,7 +2,7 @@
 
 A website which helps job seekers and recruiters come together and hire easily built using Django Framework with social login.
 
-Features for recruiters :-
+# Features for recruiters :-
 
     1.Post job posts.
 
@@ -16,7 +16,7 @@ Features for recruiters :-
 
     6.Search through entire resume database and have access to all resumes.
   
-Features for job seekers:-
+# Features for job seekers:-
 
     1.Build your profile and add your resume.
 
@@ -28,7 +28,7 @@ Features for job seekers:-
 
     5.Get relevant jobs which matches your profile through our intelligent search feature.
   
-Other features:-
+# Other features:-
 
     1.Social sign in with Google, Github and LinkedIn.
 
@@ -37,3 +37,23 @@ Other features:-
     3.Made with Bootstrap4 and some custom CSS.
 
     4.Django powers the backend part of the website.
+    
+# Install requirements:-
+
+    pip install -r requirements.txt
+    
+# Database:-
+
+    Set the database from settings.py
+    
+# To migrate the database open terminal in project directory and type :-
+
+    python manage.py makemigrations
+    
+    python manage.py migrate
+    
+    python manage.py sqlmigrate
+    
+# Run the server :-
+
+    python manage.py runserver
