@@ -57,3 +57,9 @@ A website which helps job seekers and recruiters come together and hire easily b
 # Run the server :-
 
     python manage.py runserver
+    
+    (Note :- Follw the steps for to run the Project
+     1) cd lets_upgrade
+     2) cd batch4
+     3) activate virtualenv  source bin/activate
+     4) cd capstone_proj  ).
